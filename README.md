@@ -1,4 +1,5 @@
-***Seja Bem Vindo ao Perfil!!***
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="65"> ***SEJA BEM VINDO AO PERFIL!!***   
+
 
 <div align="center">
   <a href="https://github.com/tonijnr">
@@ -13,7 +14,6 @@
   <img align="center" alt="tonijnr-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  
 </div>
-
 
 
 ![Snake animation](https://github.com/tonijnr/tonijnr/blob/output/github-contribution-grid-snake.svg)
