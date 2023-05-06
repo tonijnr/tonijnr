@@ -15,7 +15,7 @@
   <img align="center" alt="tonijnr-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg">
   <img align="center" alt="tonijnr-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="tonijnr-CMarke" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original-wordmark.svg">
-  <img align="center" alt="tonijnr-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-plain-wordmark.svg">
+  <img align="center" alt="tonijnr-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   
 
   
